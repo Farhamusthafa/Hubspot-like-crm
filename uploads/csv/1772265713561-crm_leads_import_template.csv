@@ -1,0 +1,4 @@
+firstName,lastName,email,phone,company,industry,city,country,source
+Arjun,Menon,arjun@example.com,9876543210,ABC Pvt Ltd,Technology,Kannur,India,Website
+Anjali,Nair,anjali@example.com,9123456780,TechNova,Finance,Kochi,India,Referral
+Rahul,Sharma,rahul@example.com,9988776655,Skyline Enterprises,Healthcare,Malappuram,India,LinkedIn

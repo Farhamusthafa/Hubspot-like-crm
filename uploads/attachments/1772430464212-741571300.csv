@@ -1,0 +1,2 @@
+name,email,phone,company,jobTitle,status,value,source,assignedTo
+John Doe,john@example.com,555-1234,ACME Corp,Manager,New,5000,Website,admin@example.com

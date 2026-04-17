@@ -1,0 +1,172 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "name": "Arjun Reddy",
+      "email": "arjun@example.com",
+      "phone": "1234567890",
+      "company": "Test Company",
+      "jobTitle": null,
+      "status": "New",
+      "value": "0.00",
+      "source": null,
+      "assignedToName": null,
+      "assignedToId": null,
+      "lastContact": null,
+      "createdAt": "2026-02-27T07:32:37.197Z",
+      "updatedAt": "2026-02-27T07:32:37.197Z"
+    },
+    {
+      "id": 2,
+      "name": "Leslie Alexander",
+      "email": "lesliealexander@gmail.com",
+      "phone": "09995558795",
+      "company": "BrightWave Marketing",
+      "jobTitle": "Senior Marketing Director",
+      "status": "Qualified",
+      "value": "0.00",
+      "source": "Website",
+      "assignedToName": null,
+      "assignedToId": null,
+      "lastContact": null,
+      "createdAt": "2026-02-27T07:49:40.612Z",
+      "updatedAt": "2026-02-27T07:50:38.741Z"
+    },
+    {
+      "id": 3,
+      "name": "Arjun Reddy",
+      "email": "arjun@example.com",
+      "phone": "1234567890",
+      "company": "Tech Corp",
+      "jobTitle": "Salesperson",
+      "status": "New",
+      "value": "10000.00",
+      "source": "Website",
+      "assignedToName": "Test User",
+      "assignedToId": null,
+      "lastContact": null,
+      "createdAt": "2026-02-27T07:55:45.683Z",
+      "updatedAt": "2026-02-27T07:55:45.683Z"
+    }
+  ],
+  "companies": [],
+  "deals": [
+    {
+      "id": 1,
+      "name": "TechSpark CRM Implementation",
+      "stage": "Proposal",
+      "closeDate": "2026-02-26T00:00:00.000Z",
+      "owner": "Admin User",
+      "amount": 75000,
+      "createdAt": "2026-02-27T07:48:07.485Z",
+      "updatedAt": "2026-02-27T07:48:07.485Z"
+    },
+    {
+      "id": 3,
+      "name": "Leslie Alexander Deal",
+      "stage": "Qualification",
+      "closeDate": "2026-03-27T00:00:00.000Z",
+      "owner": "Admin User",
+      "amount": 0,
+      "createdAt": "2026-02-27T07:51:25.405Z",
+      "updatedAt": "2026-02-27T07:51:25.405Z"
+    }
+  ],
+  "tickets": [],
+  "notes": [
+    {
+      "id": 1,
+      "entityType": "lead",
+      "entityId": 1,
+      "content": "Test note",
+      "createdAt": "2026-02-27T07:32:03.750Z",
+      "updatedAt": "2026-02-27T07:32:03.750Z"
+    },
+    {
+      "id": 2,
+      "entityType": "lead",
+      "entityId": 1,
+      "content": "<p>This is a test note with <strong>HTML</strong> content</p>",
+      "createdAt": "2026-02-27T07:32:47.275Z",
+      "updatedAt": "2026-02-27T07:32:47.275Z"
+    },
+    {
+      "id": 3,
+      "entityType": "lead",
+      "entityId": 1,
+      "content": "note",
+      "createdAt": "2026-02-27T07:42:01.942Z",
+      "updatedAt": "2026-02-27T07:42:01.942Z"
+    },
+    {
+      "id": 4,
+      "entityType": "lead",
+      "entityId": 1,
+      "content": "note",
+      "createdAt": "2026-02-27T07:42:20.547Z",
+      "updatedAt": "2026-02-27T07:42:20.547Z"
+    },
+    {
+      "id": 5,
+      "entityType": "lead",
+      "entityId": 3,
+      "content": "Test note for backup verification",
+      "createdAt": "2026-02-27T07:55:45.693Z",
+      "updatedAt": "2026-02-27T07:55:45.693Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "entityType": "lead",
+      "entityId": 1,
+      "title": "Follow up call",
+      "description": "Need to follow up with Arjun",
+      "dueDate": "2026-02-28T00:00:00.000Z",
+      "priority": "High",
+      "status": "Upcoming",
+      "createdAt": "2026-02-27T07:33:11.301Z",
+      "updatedAt": "2026-02-27T07:33:11.301Z"
+    }
+  ],
+  "meetings": [
+    {
+      "id": 1,
+      "entityType": "lead",
+      "entityId": 1,
+      "title": "Demo meeting",
+      "description": "Product demo for Arjun",
+      "date": "2026-03-01T00:00:00.000Z",
+      "duration": "1 hour",
+      "attendees": "Arjun Reddy",
+      "createdAt": "2026-02-27T07:33:49.889Z",
+      "updatedAt": "2026-02-27T07:33:49.889Z"
+    }
+  ],
+  "emails": [],
+  "calls": [],
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "test@example.com",
+      "password": "$2b$10$EBE.XTuEj6w4/q34NHqXd.PZ2TVHZ/Y66I94k6TyzVnAl38CW/97e",
+      "phone": "1234567890",
+      "companyName": "Test Company",
+      "industryType": "Technology",
+      "countryRegion": "US",
+      "gender": "other",
+      "emailNotifications": true,
+      "twoFactorAuth": false,
+      "publicProfile": false,
+      "role": "user",
+      "resetOtp": null,
+      "resetOtpExpiry": null,
+      "profileImage": null,
+      "createdAt": "2026-02-27T07:30:33.910Z",
+      "updatedAt": "2026-02-27T07:30:33.910Z"
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,3 @@
+name,email,phone,company,jobTitle,status,value,source,assignedTo
+John Doe,john@example.com,9876543210,Nexora Solutions,Manager,New,5000,Website,admin@example.com
+Jane Smith,jane@example.com,9123456780,FinCore Analytics,Director,Qualified,10000,Referral,sales@example.com

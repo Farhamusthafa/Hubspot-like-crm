@@ -1,0 +1,8 @@
+title,description,status,source,priority,companyName,dealName,owner
+Login Issue,User unable to login to account,New,Email,High,TCS,Deal 1,Arjun
+Payment Error,Payment failed during checkout,Waiting on us,Chat,Critical,Infosys,Deal 2,Meera
+Account Setup Help,Customer needs help setting up account,Waiting on contact,Phone,Medium,Wipro,Deal 3,Rahul
+Feature Request,Request for new dashboard feature,New,Email,Low,HCL,Deal 1,Neha
+Bug Report,System crash when uploading file,Closed,Chat,High,IBM,Deal 2,Kiran
+
+

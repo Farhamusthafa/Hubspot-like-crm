@@ -1,0 +1,6 @@
+title,description,status,priority,source
+Login Issue,User unable to login to CRM,New,high,Email
+Payment Integration Bug,Payment gateway not working,Waiting on contact,medium,Phone
+Dashboard Loading Slow,Dashboard takes too long to load,Waiting on us,low,Chat
+Data Sync Failure,Data not syncing between modules,Closed,critical,Email
+Account Setup Help,Customer needs help setting up account,New,medium,Phone

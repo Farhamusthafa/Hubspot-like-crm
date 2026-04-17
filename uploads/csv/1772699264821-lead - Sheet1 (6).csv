@@ -1,0 +1,6 @@
+firstName,lastName,email,phone,company,jobTitle,status,assignedToName,lastContact
+John,samuel,john@gmail.com,9876543210,TCS,Manager,New,1,2026-02-20
+Sarah,haneena,sarah@gmail.com,9123456780,Infosys,Developer,Contacted,1,2026-02-21
+Ali,zafrad,ali@gmail.com,9988776655,Wipro,Analyst,Qualified,1,2026-02-22
+Priya,warrior,priya@gmail.com,9090909090,HCL,HR,Inprogress,1,2026-02-23
+David,beckam,david@gmail.com,8887776665,IBM,Consultant,Won,1,2026-02-24
