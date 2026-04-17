@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+body {
+  background-color: #f5f6fa;
+}
+
+/* Hide native date/time picker icons while keeping functionality
+   We keep a custom icon positioned absolutely in the inputs, so
+   hide the browser indicator to avoid duplicate symbols. */
+input[type="date"].hide-native-picker::-webkit-calendar-picker-indicator,
+input[type="time"].hide-native-picker::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
+
+/* Firefox - hide spin buttons for time input */
+input[type="time"].hide-native-picker {
+  -moz-appearance: textfield;
+}
+
